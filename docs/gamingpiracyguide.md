@@ -665,6 +665,7 @@
 * [The First Alkahistorian](https://nagshell.github.io/elemental-inception-incremental/) - Incremental Elemental Game
 * [FactoryIdle](https://factoryidle.com/) - Factory Idle Simulator
 * [Idlescape](https://www.play.idlescape.com/) - Idle MMORPG
+* [people playground](https://people-playground.io)) - Physics-based simulation
 * [ProgressQuest](http://progressquest.com/) - Idle RPG
 * [Anti Matter Dimesions](https://ivark.github.io/) - Anti Matter Idle Game
 * [Theory of Magic](https://mathiashjelm.gitlab.io/arcanum/) - Magic Idle Game
